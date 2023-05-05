@@ -6,6 +6,12 @@
 Welcome to Iroh's documentation!
 ================================
 
+This document describes the tales of Uncle Iroh, the powerful firebender with a easygoing and good-humored personality.
+
+.. note::
+   This project is part of a set of projects for testing intersphinx referencing between multiple multi-version sphinx projects.
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

@@ -30,6 +30,8 @@ exclude_patterns = []
 
 html_theme = "furo"
 html_title = "Tales of Uncle Iroh"
+html_copy_source = False
+html_show_sourcelink = False
 html_theme_options = {
     "footer_icons": [
         {
